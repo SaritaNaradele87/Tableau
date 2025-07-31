@@ -19,4 +19,4 @@ This dashboard explores key HR metrics including employee attrition, average age
 - Sample HR analytics dataset 
 
 ## 📸 Preview:
-![Dashboard Screenshot](./HR-Analytic.png)
+![Dashboard Screenshot](images/HR-Analytic.png)
